@@ -1,0 +1,33 @@
+{
+  "student_id": "maria",
+  "homework_id": "HW-002",
+  "submission_id": "b0e7aba6-868c-4e23-89b3-d4bbf518c3f8",
+  "request_id": "0d0d303d-ef97-4a3e-9371-d1f5f9be8f8e",
+  "submitted_at": "2026-11-11T04:49:02.334Z",
+  "status": "submitted",
+  "homework": {
+    "id": "HW-002",
+    "title": "Линейные уравнения Марии",
+    "topic": "Уравнения",
+    "description": "Решить",
+    "tasks": [
+      "Задача"
+    ],
+    "dueAt": null,
+    "maxScore": 10,
+    "published": true,
+    "allowResubmit": false,
+    "materials": [],
+    "assignedAt": "2026-11-11T04:48:54.879Z"
+  },
+  "files": [
+    {
+      "id": "1f672c12-4dae-4b36-a6be-a4712ffdd23d",
+      "path": "students/maria/homework/HW-002/submissions/b0e7aba6-868c-4e23-89b3-d4bbf518c3f8/1f672c12-4dae-4b36-a6be-a4712ffdd23d.pdf",
+      "name": "maria.pdf",
+      "mime": "application/pdf",
+      "size": 34,
+      "sha256": "5495c212c7413e2292959200d54cb8303bb4ef9fa2cc51ae67f8599ec41919be"
+    }
+  ]
+}
