@@ -1,0 +1,20 @@
+{
+  "student_id": "artem",
+  "homework_id": "HW-001",
+  "submission_id": "32838b45-9741-4b22-b155-5e1c2cf6278e",
+  "submitted_at": "2026-11-11T05:00:35.566Z",
+  "status": "submitted",
+  "files": [
+    "students/artem/homework/HW-001/submissions/32838b45-9741-4b22-b155-5e1c2cf6278e/48bdb59a-7b16-4f8d-825e-e295e3871cf7.pdf"
+  ],
+  "file_details": [
+    {
+      "id": "48bdb59a-7b16-4f8d-825e-e295e3871cf7",
+      "path": "students/artem/homework/HW-001/submissions/32838b45-9741-4b22-b155-5e1c2cf6278e/48bdb59a-7b16-4f8d-825e-e295e3871cf7.pdf",
+      "name": "NikitaMatveev.pdf",
+      "mime": "application/pdf",
+      "size": 5963,
+      "sha256": "d7b80e30e469c708f75786391e753278d4d3f66bddde229dd0097c420a3cf058"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "student_id": "artem",
+  "homework_id": "HW-001",
+  "submission_id": "32838b45-9741-4b22-b155-5e1c2cf6278e",
+  "request_id": "34a5ef5d-ee3e-484a-bc29-19374f763a52",
+  "submitted_at": "2026-11-11T05:00:35.566Z",
+  "status": "submitted",
+  "homework": {
+    "id": "HW-001",
+    "title": "Задание изменено после сдачи",
+    "topic": "Уравнения",
+    "description": "Решить",
+    "tasks": [
+      "Задача"
+    ],
+    "dueAt": null,
+    "maxScore": 100,
+    "published": true,
+    "allowResubmit": true,
+    "materials": [
+      {
+        "name": "Материал.pdf",
+        "path": "students/artem/materials/lesson.pdf",
+        "size": 8
+      }
+    ],
+    "assignedAt": "2026-11-11T04:53:51.029Z"
+  },
+  "files": [
+    {
+      "id": "48bdb59a-7b16-4f8d-825e-e295e3871cf7",
+      "path": "students/artem/homework/HW-001/submissions/32838b45-9741-4b22-b155-5e1c2cf6278e/48bdb59a-7b16-4f8d-825e-e295e3871cf7.pdf",
+      "name": "NikitaMatveev.pdf",
+      "mime": "application/pdf",
+      "size": 5963,
+      "sha256": "d7b80e30e469c708f75786391e753278d4d3f66bddde229dd0097c420a3cf058"
+    }
+  ]
+}
