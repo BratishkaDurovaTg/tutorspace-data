@@ -1,0 +1,20 @@
+{
+  "student_id": "maria",
+  "homework_id": "HW-002",
+  "submission_id": "9512145b-a984-4f53-ae50-0f8717e29ba7",
+  "submitted_at": "2026-11-11T04:49:27.492Z",
+  "status": "submitted",
+  "files": [
+    "students/maria/homework/HW-002/submissions/9512145b-a984-4f53-ae50-0f8717e29ba7/3895681a-a7f7-4552-a0c0-cd1185887ad5.pdf"
+  ],
+  "file_details": [
+    {
+      "id": "3895681a-a7f7-4552-a0c0-cd1185887ad5",
+      "path": "students/maria/homework/HW-002/submissions/9512145b-a984-4f53-ae50-0f8717e29ba7/3895681a-a7f7-4552-a0c0-cd1185887ad5.pdf",
+      "name": "correction.pdf",
+      "mime": "application/pdf",
+      "size": 38,
+      "sha256": "9347a63f3a951c5f32bc60e50b6ac6b6c18827f211a83154a78394fbfd9396da"
+    }
+  ]
+}
