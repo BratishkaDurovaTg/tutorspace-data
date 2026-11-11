@@ -1,7 +1,1 @@
-{
-  "id": "artem",
-  "name": "Артём",
-  "subject": "Математика",
-  "grade": "8",
-  "active": true
-}
+{"id":"artem","name":"Артём","subject":"Математика","grade":"8","active":true}
