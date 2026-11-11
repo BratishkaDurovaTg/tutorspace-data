@@ -1,0 +1,47 @@
+{
+  "student_id": "artem",
+  "homework_id": "HW-001",
+  "submission_id": "618ead9d-6602-4dbe-96f9-6e09a6b942b7",
+  "request_id": "ec9e8d22-6d43-4402-b954-fd64a4861c15",
+  "submitted_at": "2026-11-11T04:57:05.090Z",
+  "status": "submitted",
+  "homework": {
+    "id": "HW-001",
+    "title": "Задание изменено после сдачи",
+    "topic": "Уравнения",
+    "description": "Решить",
+    "tasks": [
+      "Задача"
+    ],
+    "dueAt": null,
+    "maxScore": 100,
+    "published": true,
+    "allowResubmit": true,
+    "materials": [
+      {
+        "name": "Материал.pdf",
+        "path": "students/artem/materials/lesson.pdf",
+        "size": 8
+      }
+    ],
+    "assignedAt": "2026-11-11T04:53:51.029Z"
+  },
+  "files": [
+    {
+      "id": "2842911d-b9d9-4319-9dd6-f10d6f2a8653",
+      "path": "students/artem/homework/HW-001/submissions/618ead9d-6602-4dbe-96f9-6e09a6b942b7/2842911d-b9d9-4319-9dd6-f10d6f2a8653.jpg",
+      "name": "solution-test-2.jpg",
+      "mime": "image/jpeg",
+      "size": 72956,
+      "sha256": "5ea21bfd74881a03067439451b9b22dafde204d06c6266cc4597dbb375b07185"
+    },
+    {
+      "id": "b2ea9fcb-1aa1-41bd-8e68-9894ff1f6802",
+      "path": "students/artem/homework/HW-001/submissions/618ead9d-6602-4dbe-96f9-6e09a6b942b7/b2ea9fcb-1aa1-41bd-8e68-9894ff1f6802.png",
+      "name": "solution-test.png",
+      "mime": "image/png",
+      "size": 45735,
+      "sha256": "7e7aa0d06c797f12d1cbbff30f2d9a882b10a60f464948407830466ccd50df91"
+    }
+  ]
+}
